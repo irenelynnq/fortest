@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='WhileLoop'/>
+        <page name='WhileChallenge'/>
+        <page name='ForLoop'/>
+        <page name='ForChallenge'/>
+        <page name='SwitchStatements'/>
+        <page name='SwitchChallenge'/>
+        <page name='Enumeration'/>
+    </pages>
+</playground>
